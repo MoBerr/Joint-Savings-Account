@@ -2,7 +2,7 @@
 
 Step 1: Create a Joint Savings Account Contract in Solidity
 
-![Code](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2020/Execution_Results/Code.gif)
+![Code](https://github.com/MoBerr/Joint-Savings-Account/blob/master/Screenshots/Code.gif)
 
 Step 2: Compile and Deploy Your Contract in the JavaScript VM
 
