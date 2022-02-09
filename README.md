@@ -13,13 +13,8 @@ Step 3: Interact with Your Deployed Smart Contract
 * Transactions 1, 2, and 3:
 
 ![Deposit](https://github.com/MoBerr/Joint-Savings-Account/blob/master/Screenshots/Deposit.gif)
+![Deposit](https://github.com/MoBerr/Joint-Savings-Account/blob/master/Screenshots/Deposit2.gif)
 
 * Withdraw function:
 
-![WDW_1](https://github.com/MoBerr/Joint-Savings-Account/blob/master/Screenshots/WDW_1.gif)
-
-![WDW_1](https://github.com/MoBerr/Joint-Savings-Account/blob/master/Screenshots/WDW_1.jpg)
-
-![WDW_2](https://github.com/MoBerr/Joint-Savings-Account/blob/master/Screenshots/WDW_2.gif)
-
-![WDW_2](https://github.com/MoBerr/Joint-Savings-Account/blob/master/Screenshots/WDW_2.jpg)
+![WDW_1](https://github.com/MoBerr/Joint-Savings-Account/blob/master/Screenshots/withdraw.gif)
