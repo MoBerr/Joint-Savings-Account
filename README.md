@@ -1,4 +1,4 @@
-# Unit 20 Homework: Joint Savings Account
+Joint Savings Account
 
 Step 1: Create a Joint Savings Account Contract in Solidity
 
