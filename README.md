@@ -14,10 +14,6 @@ Step 3: Interact with Your Deployed Smart Contract
 
 ![Deposit](https://github.com/MoBerr/Joint-Savings-Account/blob/master/Screenshots/Deposit.gif)
 
-![1Ether](https://github.com/MoBerr/Joint-Savings-Account/blob/master/Screenshots/1Ether.jpg)
-
-![Deposit_Complete](https://github.com/MoBerr/Joint-Savings-Account/blob/master/Screenshots/Deposit_Complete.jpg)
-
 * Withdraw function:
 
 ![WDW_1](https://github.com/MoBerr/Joint-Savings-Account/blob/master/Screenshots/WDW_1.gif)
